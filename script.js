@@ -12,7 +12,7 @@ if(i.value == 0 || i==''){
     avt[0].style.opacity = 0
 }else{
     avt[j].style.opacity =0;
-     if(j==5){
+     if(j==4){
         for(let u =0 ;u<avt.length ;u++){
             avt[u].style.opacity =1;
             j=0
